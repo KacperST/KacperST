@@ -36,6 +36,12 @@ Here`s how it looks:
  
  ![2](https://user-images.githubusercontent.com/92333794/146772778-063f998d-03ff-4856-81e3-e28e29ee42ad.PNG)
 
+## Other participants in the project:
+* [Lesio](https://github.com/vLesio)
+* [Tosiek](https://github.com/Tosiekdev)
+* [Adrk](https://github.com/adrk17)
+* [Michalszc](https://github.com/michalszc)
+* [David](https://github.com/dhunanyan)
 
 
 
