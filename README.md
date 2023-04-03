@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Who am I?
 
-I'm just a 21-year old student who started programming 2 years ago. By the end of July I will have finished my 2nd year at Computer Science and Intelligent Systems on AGH University of Computer in Cracow. I`ve always been math-enjoyer and solving puzzles always have been my cup  of tea. From the young age I used to participate in many math competitions and take high place in mostly of them ( For example laureate in Diamond Index of AGH or Math Curatorial Competition. Now I`m on my way to transfer my math sklls to programming skills.
+I'm just a 21-year old student who started programming 2 years ago. By the end of July I will have finished my 2nd year at Computer Science and Intelligent Systems on AGH University of Computer in Cracow. I've always been math-enjoyer and solving puzzles always have been my cup  of tea. From the young age I used to participate in many math competitions and take high place in mostly of them ( For example laureate in Diamond Index of AGH or Math Curatorial Competition. Now I'm on my way to transfer my math sklls to programming skills.
 
 # Which languages Am I interested in?
 * Java - Spring,Spring boot, Hibernate, Junit
@@ -35,10 +35,10 @@ After 1.5 year of coding I finally feel ready for creating my own "big" projects
 
 ## Quizly App 📱
 
-A mobile app for playing offline & online quizzes and creating your own. It was  built using Flutter, Python, Firebase Authorization and Databases by me and 3 friends. My responsibilities included creating the layout, connecting the app to Firebase Authorization and handling the API`s requests.
+A mobile app for playing offline & online quizzes and creating your own. It was  built using Flutter, Python, Firebase Authorization and Databases by me and 3 friends. My responsibilities included creating the layout, connecting the app to Firebase Authorization and handling the API's requests.
 
 
-Here`s how it looks:
+Here's how it looks:
 
 
 [https://github.com/QuizlyTeam/quizly_app](QuizlyApp_Github)
