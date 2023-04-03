@@ -44,11 +44,12 @@ Here's how it looks:
 [https://github.com/QuizlyTeam/quizly_app](QuizlyApp_Github)
 
 ## Fitness web application - working name
-This is the project that I`ve just started working on. It will be fully create by me using Java Spring, Hibernate, PostgreSQL. If the backend works, I will also create the Frontend of the application probably in HTML/CSS and Angluar.
+This is the project that I've just started working on. It will be fully create by me using Java Spring, Hibernate, PostgreSQL. If the backend works, I will also create the Frontend of the application probably in HTML/CSS and Angluar.
+
 [https://github.com/KacperST/Fitness-web-applitcation](Fitness-web-applicatin)
 
 
 
 
 # Algorithms
-I want to write fast and efficient code. That`s why I learn about data structures and algorithms. I`m training my skills on Leetcode. Even if my program there is not the fastest, I love to read other`s code to see how I could have improved my program. I find it really helpful
+I want to write fast and efficient code. That's why I learn about data structures and algorithms. I'm training my skills on Leetcode. Even if my program there is not the fastest, I love to read other's code to see how I could have improved my program. I find it really helpful
