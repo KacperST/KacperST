@@ -17,33 +17,38 @@ Here are some ideas to get you started:
 
 # Who am I?
 
-I'm just a 19-year old student, i've just started learing coding.
+I'm just a 21-year old student who started programming 2 years ago. By the end of July I will have finished my 2nd year at Computer Science and Intelligent Systems on AGH University of Computer in Cracow. I`ve always been math-enjoyer and solving puzzles always have been my cup  of tea. From the young age I used to participate in many math competitions and take high place in mostly of them ( For example laureate in Diamond Index of AGH or Math Curatorial Competition. Now I`m on my way to transfer my math sklls to programming skills.
 
 # Which languages Am I interested in?
-* C - that's not my most likeable language, I dont really recommending it for anyone.
-* Python - this one is for sure more user-friendly, really easy to ride a code in.
+* Java - Spring,Spring boot, Hibernate, Junit
+* Python - Pandas, Scikit-learn, Tensorflow, Django,
+* C# - ASP .NET, .NET Core, Entity,
+* PostgreSQL,
+* In future I would love to learn some of new languages especiialy Kotlin
 
 # What are my goals?
-First is of course to become a successful programmer, the second one is to have fun in my future job!
+My goal is to use my analytical skills to develope different softwares, create machine learning programms, Web applications and Android applications.
+My prefered job is Backend developer, but I also want to know how to create a website using Angular/React.
 
-# My part in Pycharrming project
-I've been told to do a "guess the number" and I did it. I had some problems but everything seems to work well now. I made 3 versions of the game, each version better than the previous one. In the final form of the game we can choose the range of numbers, we see how many shots we have and how close we are to the number bot thought of.
+# Projects
+After 1.5 year of coding I finally feel ready for creating my own "big" projects. Here are some examples of what I have done for last few months
+
+## Quizly App 📱
+
+A mobile app for playing offline & online quizzes and creating your own. It was  built using Flutter, Python, Firebase Authorization and Databases by me and 3 friends. My responsibilities included creating the layout, connecting the app to Firebase Authorization and handling the API`s requests.
+
 
 Here`s how it looks:
 
 
- ![1](https://user-images.githubusercontent.com/92333794/146772712-e0739976-2be7-4339-abcd-79bb49b74f07.PNG)
- 
- ![2](https://user-images.githubusercontent.com/92333794/146772778-063f998d-03ff-4856-81e3-e28e29ee42ad.PNG)
+[https://github.com/QuizlyTeam/quizly_app](QuizlyApp_Github)
 
-## Other participants in the project:
-* [Lesio](https://github.com/vLesio)
-* [Tosiek](https://github.com/Tosiekdev)
-* [Adrk](https://github.com/adrk17)
-* [Michalszc](https://github.com/michalszc)
-* [David](https://github.com/dhunanyan)
+## Fitness web application - working name
+This is the project that I`ve just started working on. It will be fully create by me using Java Spring, Hibernate, PostgreSQL. If the backend works, I will also create the Frontend of the application probably in HTML/CSS and Angluar.
+[https://github.com/KacperST/Fitness-web-applitcation](Fitness-web-applicatin)
 
 
 
-# CODING
--[Code from Papers with Code](https://github.com/KacperST/PERSIA)
+
+# Algorithms
+I want to write fast and efficient code. That`s why I learn about data structures and algorithms. I`m training my skills on Leetcode. Even if my program there is not the fastest, I love to read other`s code to see how I could have improved my program. I find it really helpful
