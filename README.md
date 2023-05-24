@@ -19,12 +19,10 @@ Here are some ideas to get you started:
 
 I'm just a 21-year old student who started programming 2 years ago. By the end of July I will have finished my 2nd year at Computer Science and Intelligent Systems on AGH University of Computer in Cracow. I've always been math-enjoyer and solving puzzles always have been my cup  of tea. From the young age I used to participate in many math competitions and take high place in mostly of them ( For example laureate in Diamond Index of AGH or Math Curatorial Competition. Now I'm on my way to transfer my math sklls to programming skills.
 
-# Which languages Am I interested in?
+# Which languages Am I most interested in?
 * Java - Spring,Spring boot, Hibernate, Junit
 * Python - Pandas, Scikit-learn, Tensorflow, Django,
-* C# - ASP .NET, .NET Core, Entity,
 * PostgreSQL,
-* In future I would love to learn some of new languages especiialy Kotlin
 
 # What are my goals?
 My goal is to use my analytical skills to develope different softwares, create machine learning programms, Web applications and Android applications.
