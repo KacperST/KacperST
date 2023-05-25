@@ -47,6 +47,10 @@ This is the project that I've just started working on. It will be fully create b
 [Fitness-web-applicatin](https://github.com/KacperST/Fitness-web-applitcation)
 
 # Smaller Projects:
+## Converter from Kotlin code to C++ code
+
+[Kotlin-to-Cpp-converter](https://github.com/KacperST/Kotlin-to-Cpp-Converter)
+
 ## Zombie game:
 
 Simple FPS game to kill zombies, built in Java
