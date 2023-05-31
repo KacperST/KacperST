@@ -40,11 +40,9 @@ Here's how it looks:
 
 
 [QuizlyApp_Github](https://github.com/QuizlyTeam/quizly_app)
-
-## Fitness web application - working name
-This is the project that I've just started working on. It will be fully create by me using Java Spring, Hibernate, PostgreSQL. If the backend works, I will also create the Frontend of the application probably in HTML/CSS and Angluar.
-
-[Fitness-web-applicatin](https://github.com/KacperST/Fitness-web-applitcation)
+## Web application used for renting company
+Built with ASP.NET MVC & REST API
+[Snow-sport-equipment-renting-company-app](https://github.com/KacperST/snow-eq-rent)
 
 # Smaller Projects:
 ## Converter from Kotlin code to C++ code
@@ -57,9 +55,6 @@ Simple FPS game to kill zombies, built in Java
 
 
 [Zombie Game](https://github.com/KacperST/ZombieGame)
-
-
-
 
 
 # Algorithms
