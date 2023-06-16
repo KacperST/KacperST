@@ -29,13 +29,9 @@ My goal is to use my analytical skills to develope different softwares, create m
 My prefered job is Backend developer, but I also want to know how to create a website using Angular/React.
 
 # Projects
-After 1.5 year of coding I finally feel ready for creating my own "big" projects. Here are some examples of what I have done for last few months
-
 ## Quizly App 📱
 
 A mobile app for playing offline & online quizzes and creating your own. It was  built using Flutter, Python, Firebase Authorization and Databases by me and 3 friends. My responsibilities included creating the layout, connecting the app to Firebase Authorization and handling the API's requests.
-
-
 Here's how it looks:
 
 
@@ -44,9 +40,8 @@ Here's how it looks:
 Built with ASP.NET MVC & REST API
 [Snow-sport-equipment-renting-company-app](https://github.com/KacperST/RentCompany)
 
-# Smaller Projects:
 ## Converter from Kotlin code to C++ code
-
+Application with really basic Text Editior in which your Kotlin Code (imported or written) may be converted into c++ code. Wrote with Python and ANTLR4
 [Kotlin-to-Cpp-converter](https://github.com/KacperST/Kotlin-to-Cpp-Converter)
 
 ## Zombie game:
