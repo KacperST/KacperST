@@ -42,7 +42,7 @@ Here's how it looks:
 [QuizlyApp_Github](https://github.com/QuizlyTeam/quizly_app)
 ## Web application used for renting company
 Built with ASP.NET MVC & REST API
-[Snow-sport-equipment-renting-company-app](https://github.com/KacperST/snow-eq-rent)
+[Snow-sport-equipment-renting-company-app](https://github.com/KacperST/RentCompany)
 
 # Smaller Projects:
 ## Converter from Kotlin code to C++ code
