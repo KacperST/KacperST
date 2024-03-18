@@ -65,7 +65,7 @@ Built with React ( in TypeScript ) and Express.js.
 A mobile app for playing offline & online quizzes and creating your own. It was  built using Flutter, Python, Firebase Authorization and Databases by me and 3 friends. My responsibilities included creating the layout, connecting the app to Firebase Authorization and handling the API's requests.
 Here's how it looks:
 
-[QuizlyApp_Github](https://github.com/QuizlyTeam/quizly_app)
+[QuizlyApp Github](https://github.com/QuizlyTeam/quizly_app)
 
 ## Converter from Kotlin code to C++ code
 Application with really basic Text Editior in which your Kotlin Code (imported or written) may be converted into c++ code. Wrote with Python and ANTLR4
