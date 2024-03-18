@@ -57,6 +57,7 @@ framework and Numpy.
 A web application that could be used by travel agencies. 
 It offers simple CRUD operations for user and views of trips, history and shopping cart. 
 Built with React ( in TypeScript ) and Express.js. 
+
 [Travel Agency Github](https://github.com/KacperST/Biuro-Turystyczne)
 
 ## Quizly App 📱
@@ -68,6 +69,7 @@ Here's how it looks:
 
 ## Converter from Kotlin code to C++ code
 Application with really basic Text Editior in which your Kotlin Code (imported or written) may be converted into c++ code. Wrote with Python and ANTLR4
+
 [Kotlin-to-Cpp-converter](https://github.com/KacperST/Kotlin-to-Cpp-Converter)
 
 ## Zombie game:
