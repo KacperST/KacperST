@@ -75,3 +75,8 @@ Application with really basic Text Editior in which your Kotlin Code (imported o
 Simple FPS game to kill zombies, built in Java
 
 [Zombie Game](https://github.com/KacperST/ZombieGame)
+
+
+## Future goals 
+If I get some extra money I'd like to buy a new GPU deliberately to create neural networks models and take part in Kaggle competitions for gaining some experience.
+
